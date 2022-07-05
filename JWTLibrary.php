@@ -15,7 +15,7 @@ use Exception;
 	# $token = someClass::gn_jwt((array)$data, (string) $secret, (bool) true);
 	# echo someClass::chk_jwt($token,$secret) ? someClass::get_jwt($token,true) : false;
 	#
-	# By Cal Henderson <juanma@hexome.cloud>
+	# By  Villalba Juan Manuel Pedro <juanma@hexome.cloud>
 	# This code is licensed under a Creative Commons Attribution-ShareAlike 2.5 License
 	# http://creativecommons.org/licenses/by-sa/2.5/
 	#

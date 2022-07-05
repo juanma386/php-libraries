@@ -21,7 +21,7 @@ use Exception;
 	#
 	# Thanks to Jang Kim for adding support for single quoted attributes
 	# Thanks to Dan Bogan for dealing with entity decoding outside attributes
-	#
+	# Check sandbox testing on: https://onlinephp.io/c/96b5308d-ec7e-460d-bed8-5017f14d6d92
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
